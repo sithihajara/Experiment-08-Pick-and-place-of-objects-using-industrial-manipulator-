@@ -99,14 +99,14 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place :
-#### program:
+### program:
 ![image](https://user-images.githubusercontent.com/94219582/203089928-e7b91e9a-91af-4cdd-a137-6b706d954ce2.png)
 
 ![image](https://user-images.githubusercontent.com/94219582/203090014-7f05ae5c-61a3-4983-be65-294f75530db8.png)
 
 ![image](https://user-images.githubusercontent.com/94219582/203090273-2384b0fa-221f-492a-be0e-fedf3b0417a3.png)
 
-#### Robo Action:
+### Robo Action:
 ![image](https://user-images.githubusercontent.com/94219582/203090469-093e7787-ec50-4449-bbe9-d5ac4b11928f.png)
 
 ![image](https://user-images.githubusercontent.com/94219582/203090573-3eaafe8b-77b3-42c5-9e01-bce96a608f89.png)
